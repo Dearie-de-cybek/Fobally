@@ -1,0 +1,47 @@
+{
+  "hero": {
+    "title": "A potter in Ushafa, Abuja, shapes a ribbed clay pot by hand.",
+    "source": "Photo: Ayodeji Ogunro, CC BY-SA 4.0, via Wikimedia Commons",
+    "url": "https://commons.wikimedia.org/wiki/File:Women_of_Ushafa_pottery_village_5.jpg"
+  },
+  "painting": {
+    "title": "Painter Uchemadu Ukaukwu beside one of his canvases.",
+    "source": "Photo: Isi Obidi, CC BY-SA 4.0, via Wikimedia Commons",
+    "url": "https://commons.wikimedia.org/wiki/File:Uchemadu_Ukaukwu.jpg"
+  },
+  "mixed": {
+    "title": "An Eyo masquerade in white cloth, hat and staff at Lagos's Eyo festival.",
+    "source": "Photo: Yemi festus, CC BY-SA 4.0, via Wikimedia Commons",
+    "url": "https://commons.wikimedia.org/wiki/File:Eyo_Festival_02.jpg"
+  },
+  "sculpture": {
+    "title": "A wood carver finishes a figure by hand.",
+    "source": "Photo: Agbalagba, CC BY-SA 4.0, via Wikimedia Commons",
+    "url": "https://commons.wikimedia.org/wiki/File:A_man_carving_a_figurine.jpg"
+  },
+  "ceramics": {
+    "title": "Women potters in Ilorin, Kwara State, shaping and finishing pots.",
+    "source": "Photo: Omakid, CC BY-SA 4.0, via Wikimedia Commons",
+    "url": "https://commons.wikimedia.org/wiki/File:Ilorin_women_potters_making_Isasun_pots_with_clay.jpg"
+  },
+  "drawing": {
+    "title": "A man admires a pencil portrait of himself drawn by a local artist.",
+    "source": "Photo: Nkiru Odihekandu, CC BY-SA 4.0, via Wikimedia Commons",
+    "url": "https://commons.wikimedia.org/wiki/File:A_Nigerian_man_admiring_a_Pencil_painting_of_himself_made_by_a_local_artists.jpg"
+  },
+  "print": {
+    "title": "A dyer lifts hand-dyed adire cloth in the open air.",
+    "source": "Photo: LensEye Media, CC BY-SA 4.0, via Wikimedia Commons",
+    "url": "https://commons.wikimedia.org/wiki/File:Adire.jpg"
+  },
+  "national": {
+    "title": "A musician plays at the Durbar festival in northern Nigeria, crowd behind him.",
+    "source": "Photo: Adamu galadima lifestyle, CC BY-SA 4.0, via Wikimedia Commons",
+    "url": "https://commons.wikimedia.org/wiki/File:Durbar_Festival_03.jpg"
+  },
+  "state": {
+    "title": "Women traders sell peppers and vegetables at a Lagos market.",
+    "source": "Photo: Agbebiyi Adekunle (Tadek Photography), CC BY-SA 4.0, via Wikimedia Commons",
+    "url": "https://commons.wikimedia.org/wiki/File:The_Market_women_at_Oshodi_Lagos.jpg"
+  }
+}
